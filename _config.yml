@@ -1,6 +1,6 @@
 name: Dead Penguins
 description: Dead Penguins Blog 
-baseurl: "/"
+baseurl: ""
 links:
     About:
         url: #
