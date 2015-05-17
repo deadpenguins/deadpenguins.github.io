@@ -1,24 +1,24 @@
-name: War of the Ghosts
-description: War of the Ghosts Blog 
-baseurl: "/WarOfTheGhosts"
+name: Dead Penguins
+description: Dead Penguins Blog 
+baseurl: "/"
 links:
     About:
-        url: https://github.com/uoou/WarOfTheGhosts/blob/gh-pages/README.md
+        url: #
     Wiki:
-        url: https://github.com/uoou/WarOfTheGhosts/wiki 
+        url: # 
     GitHub:
-        url: https://github.com/uoou/WarOfTheGhosts/
+        url: #
     Twitter:
-        url: https://twitter.com/yemachine
+        url: #
     Book:
-        url: /WarOfTheGhosts/book.html 
+        url: # 
 authors:
-    simon:
-        name: Simon J. Cook
-        email: simonjohncook@gmail.com
-    brad:
-        name: Dr. Brad Hammer
-        email: 
+    drew:
+        name: Drew
+        email: uo.is.ou@gmail.com
+    hex:
+        name: HexDSL
+        email: HexDSL@Gmail.com 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
