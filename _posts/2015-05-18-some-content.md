@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teh penguin vivum amplius
-author: HexDSL
+author: hex
 ---
 
 **Dead Penguins** is an upcoming Video-Stream-Podcast-Chat-Thing where our enigmatic hosts talk about their own adventures in the realm of Linux use, problems and solutions that have effected them, Open source news items, and a healthy dose of Linux gaming thoughts and commentary. **Dead Penguins** will be heavily focused on viewer interaction and submitted content is more than welcome. 
