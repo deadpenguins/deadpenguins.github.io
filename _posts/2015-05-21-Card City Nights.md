@@ -57,13 +57,10 @@ I think my video on this game pretty much sums up my whole feelings on this. I l
 
 ###Get me on... 
 
-**HitBox:** [http://www.hitbox.tv/hexdsl](http://www.hitbox.tv/hexdsl)
-
-**Twitter:** [http://www.twitter.com/HexDSL/]([http://www.twitter.com/HexDSL/)
-
-**E-mail:** [HexDSL@Questhard.com](mailto:HexDSL@Questhard.com)
-
-**G+:** [https://plus.google.com/+HexDSL](https://plus.google.com/+HexDSL)
+* **HitBox:** [http://www.hitbox.tv/hexdsl](http://www.hitbox.tv/hexdsl)
+* **Twitter:** [http://www.twitter.com/HexDSL/]([http://www.twitter.com/HexDSL/)
+* **E-mail:** [HexDSL@Questhard.com](mailto:HexDSL@Questhard.com)
+* **G+:** [https://plus.google.com/+HexDSL](https://plus.google.com/+HexDSL)
 
 And, yes we are interested in collaborations. 
 
