@@ -4,7 +4,7 @@ title: Video - Card City Nights
 author: hex
 ---
 
-***Cards in the city.***
+###Cards in the city.
 
 * **Video By:**				HexDSL
 * **Game:** 				Card City Nights
