@@ -5,6 +5,7 @@ author: hex
 ---
 
 ***Cards in the city.***
+
 **Video By:**				HexDSL
 **Game:** 				Card City Nights
 **Publisher:** 			Ludosity
