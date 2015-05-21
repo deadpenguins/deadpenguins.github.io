@@ -12,7 +12,7 @@ author: hex
 * **Release Date:** 			12 May, 2015
 * **Published to YouTube:** 	14 Feb, 2014
 
-##The Good
+###The Good
 
 **No wallet milking**
 
@@ -30,7 +30,7 @@ Hand drawn art. Looks like a very personal project. I really like it even though
 
 This game ties into the larger universe that Ludosity have created with characters pulled in from their other games. The Ittle Dew referances are probably the easiest to spot. 
 
-##The Bad
+###The Bad
 
 **No Multiplayer.**
 
@@ -44,7 +44,7 @@ The art style is something I really like but I could see how it would put some p
 
 Actually, the game ties into things most people would not have heard of. unfortunately it lacks the instant recognisability of Blizzard characters in Hearthstone but still, if you don't get it you can feel a bit left out. 
 
-##Thoughts
+###Thoughts
 I think my video on this game pretty much sums up my whole feelings on this. I like the mechanics of the game a lot and i think there is a lot of enjoyment to have but it lacks the polish that a larger development team would bring to the table. That said, who cares, It's a solid Linux game and there is a lot of fun to be had.
 
 ###System specs
@@ -55,7 +55,7 @@ I think my video on this game pretty much sums up my whole feelings on this. I l
 * **RAM:** 12GB
 * **GFX:**  NVIDIA 750ti 2GB (NVIDIA Drivers)
 
-##Get me on... 
+###Get me on... 
 
 **HitBox:** [http://www.hitbox.tv/hexdsl](http://www.hitbox.tv/hexdsl)
 
@@ -67,7 +67,7 @@ I think my video on this game pretty much sums up my whole feelings on this. I l
 
 And, yes we are interested in collaborations. 
 
-##Final Published Video
+###Final Published Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyA3o6Adi14" frameborder="0" allowfullscreen></iframe>
 
