@@ -9,7 +9,13 @@ layout: default
 				<article>
 					<h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
 					{% include byline.html %}
-					<div class="excerpt">{{ page.excerpt }}</div>
+					<div class="excerpt">
+						{% if post.content contains '<!--more-->' %}
+    							{{ post.content | split:'<!--more-->' | first }}
+						{% else %}
+							{{ page.excerpt }}
+						{% endif %}
+					</div>
 				</article>
 			</li>
 		{% endfor %}
