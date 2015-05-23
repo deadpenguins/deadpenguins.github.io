@@ -5,12 +5,12 @@ author: hex
 ---
 
 ####Invisible, Inc.
---- | ---
-**Video By:** | HexDSL
-**Game:** | Invisible, Inc.
-**Publisher:** | Klei Entertainment
-**Release Date:** | 12th May 2015
-**Published to YouTube:** | 13rd May 2015
+
+* **Video By:** HexDSL
+* **Game:** Invisible, Inc.
+* **Publisher:** Klei Entertainment
+* **Release Date:** 12th May 2015
+* **Published to YouTube:** 13rd May 2015
 
 ####The Good:
 
