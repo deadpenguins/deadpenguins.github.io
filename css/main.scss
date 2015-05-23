@@ -85,7 +85,7 @@ section.articlelist {
 	ul.articles {
 		list-style: none;
 		padding: 0 0 0 0;
-		li {
+		> li {
 			margin: 0 0 3em 0;
 		}
 		h3 {
