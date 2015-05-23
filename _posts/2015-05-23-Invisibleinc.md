@@ -18,6 +18,8 @@ author: hex
 
 They nailed the art style, Film Noire feeling with classical future tones, it looks like what I imagine a Blade Runner Cartoon would look like.
 
+<!--more-->
+
 **Rewind feature**
 
 There is an option to rewind a single move or more, what a great idea for this type of thing. 
