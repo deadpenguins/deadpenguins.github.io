@@ -75,7 +75,7 @@ Invisible, Inc. Is a very well designed game, its is one of those rare games whe
 
 **GFX:**  NVIDIA 750ti 2GB (NVIDIA Drivers)
 
-**Get me on... **
+**Get me on...**
 
 **HitBox:** http://www.hitbox.tv/hexdsl
 
